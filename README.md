@@ -1,5 +1,5 @@
 # WPF  MVVM demo
 
-- DI¨Ï¥ÎCastle 
+- DIä½¿ç”¨Castle 
 
-- MVVM¨Ï¥ÎCaliburn
+- MVVMä½¿ç”¨Caliburn
