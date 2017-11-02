@@ -1,0 +1,6 @@
+*.suo
+*.exe
+.vs/
+packages/
+CMWpfApplication/bin
+CMWpfApplication/obj
